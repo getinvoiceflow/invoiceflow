@@ -1,2 +1,2 @@
 # invoiceflow-legal
-Official Privacy Policy and Terms &amp; Conditions for the Invoice Flow iOS app
+Official Privacy Policy, Support, and Terms & Conditions for the Invoice Flow iOS app
